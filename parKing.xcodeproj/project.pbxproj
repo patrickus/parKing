@@ -18,6 +18,7 @@
 		CD8FF4891CED54EA009EB4F0 /* parKingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8FF4881CED54EA009EB4F0 /* parKingTests.swift */; };
 		CD8FF4941CED54EA009EB4F0 /* parKingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8FF4931CED54EA009EB4F0 /* parKingUITests.swift */; };
 		CD8FF4A41CED5D76009EB4F0 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8FF4A31CED5D76009EB4F0 /* MapViewController.swift */; };
+		CD8FF4A81CED7191009EB4F0 /* parkingLogo1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8FF4A71CED7191009EB4F0 /* parkingLogo1.png */; };
 		D0EA96B6F6CC8364919F8AFC /* Pods_parKing.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD6189F6D583C17ACF11FB1B /* Pods_parKing.framework */; };
 		F5CD233BC74FC03EC3A16DA3 /* Pods_parKingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C86E86CAFD7596CBD7F5038D /* Pods_parKingUITests.framework */; };
 /* End PBXBuildFile section */
@@ -64,6 +65,7 @@
 		CD8FF4931CED54EA009EB4F0 /* parKingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parKingUITests.swift; sourceTree = "<group>"; };
 		CD8FF4951CED54EA009EB4F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD8FF4A31CED5D76009EB4F0 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		CD8FF4A71CED7191009EB4F0 /* parkingLogo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = parkingLogo1.png; path = ../../../parkingLogo1.png; sourceTree = "<group>"; };
 		D9A7DA0A95E4CC4DE9EDC28D /* Pods-parKing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parKing.debug.xcconfig"; path = "Pods/Target Support Files/Pods-parKing/Pods-parKing.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -143,6 +145,7 @@
 		CD8FF46E1CED54E9009EB4F0 /* parKing */ = {
 			isa = PBXGroup;
 			children = (
+				CD8FF4A71CED7191009EB4F0 /* parkingLogo1.png */,
 				CD8FF46F1CED54E9009EB4F0 /* AppDelegate.swift */,
 				CD8FF4711CED54E9009EB4F0 /* RootViewController.swift */,
 				CD8FF4731CED54E9009EB4F0 /* DataViewController.swift */,
@@ -287,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD8FF47E1CED54E9009EB4F0 /* LaunchScreen.storyboard in Resources */,
+				CD8FF4A81CED7191009EB4F0 /* parkingLogo1.png in Resources */,
 				CD8FF47B1CED54E9009EB4F0 /* Assets.xcassets in Resources */,
 				CD8FF4791CED54E9009EB4F0 /* Main.storyboard in Resources */,
 			);
